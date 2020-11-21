@@ -1,6 +1,7 @@
 # Anki
 This is a repository for Anki decks
 
+
 # Setting Up
 Preferences
 1) Tools>Preferences>Dark Mode
