@@ -1,5 +1,5 @@
 # Anki
-> This is a repository for Anki decks and other information for getting started with Anki
+## This is a repository for Anki decks
 
 ### Preferences
 > 1. Tools>Preferences>Dark Mode
