@@ -1,4 +1,4 @@
-# The Knowledge Repository
+# Knowledge Repository
 > This repository is intended to
 > - Store study materials
 > - Provide reference to worthwhile resources
