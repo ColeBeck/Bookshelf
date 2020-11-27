@@ -8,6 +8,8 @@ The Bookshelf repository is intended to
 ## Index
 ### A
 - [Anki](#Anki)
+### C
+- [Computer Networks](#Computer Networks)
 ### L
 - [Linux](#Linux)
 ### P
@@ -19,6 +21,9 @@ The Bookshelf repository is intended to
 ### Anki
 - [Anki Quick Reference](https://github.com/ColeBeck/Bookshelf/blob/main/resources/anki_quick_ref.md)
 > This is a reference for performing basic tasks in Anki
+### Computer Networks
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+> This is a beginner's guide to socket programming with Internet sockets in C
 ### Linux
 - [Linux Journey](https://linuxjourney.com/)
 > Linux Journey offers a concise introduction to the basics of Linux
