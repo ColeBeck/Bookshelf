@@ -17,7 +17,7 @@ The Bookshelf repository is intended to
   
 ## Contents
 ### Anki
-- [Anki Quick Reference](https://github.com/ColeBeck/Knowledge-Repository/blob/main/anki/anki_setup.md)
+- [Anki Quick Reference](https://github.com/ColeBeck/Bookshelf/blob/main/resources/anki_quick_ref.md)
 > This is a reference for performing basic tasks in Anki
 ### Linux
 - [Linux Journey](https://linuxjourney.com/)
