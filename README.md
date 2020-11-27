@@ -1,10 +1,10 @@
 ## Bookshelf
 The Bookshelf repository is intended to
 - Store study materials
-- Provide convenient reference to worthwhile resources  
-
+- Provide convenient reference to worthwhile resources
+  
 ---  
-
+  
 ## Index
 ### A
 - [Anki](#Anki)
@@ -12,9 +12,9 @@ The Bookshelf repository is intended to
 - [Linux](#Linux)
 ### P
 - [Python](#Python)
-
+  
 ---
-
+  
 ## Contents
 ### Anki
 - [Anki Quick Reference](https://github.com/ColeBeck/Knowledge-Repository/blob/main/anki/anki_setup.md)
