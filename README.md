@@ -2,8 +2,8 @@
 The Bookshelf repository is intended to
 - Store study materials
 - Provide convenient reference to worthwhile resources
+
 <br/>
----  
   
 ## Index
 ### A
@@ -13,7 +13,7 @@ The Bookshelf repository is intended to
 ### P
 - [Python](#Python)
   
----
+<br/>
   
 ## Contents
 ### Anki
