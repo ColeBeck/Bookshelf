@@ -9,7 +9,7 @@ The Bookshelf repository is intended to
 ### A
 - [Anki](#Anki)
 ### C
-- [Computer Networks](#Computer Networks)
+- [Computer Networks](#Computer-Networks)
 ### L
 - [Linux](#Linux)
 ### P
