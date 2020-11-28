@@ -7,15 +7,15 @@ The Bookshelf repository is intended to
   
 ## Index
 ### A
-- [Anki](#Anki)
+> [Anki](#Anki)
 ### C
-- [Computer Networks](#Computer-Networks)
+> [Computer Networks](#Computer-Networks)
 ### J
-- [Java](#Java)
+> [Java](#Java)
 ### L
-- [Linux](#Linux)
+> [Linux](#Linux)
 ### P
-- [Python](#Python)
+> [Python](#Python)
   
 <br/>
   
