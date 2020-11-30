@@ -24,6 +24,9 @@ The Bookshelf repository is intended to
 - [Anki Quick Reference](https://github.com/ColeBeck/Bookshelf/blob/main/resources/anki_quick_ref.md)
 > This is a reference for performing basic tasks in Anki
 
+- [Lean Anki](https://leananki.com/start-here/)
+> Lean Anki is a concise tutorial for getting started with Anki and learning how to use it effectively
+
 ### Computer Networks
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 > This is a beginner's guide to socket programming with Internet sockets in C
