@@ -1,7 +1,5 @@
-## Bookshelf
-The Bookshelf repository is intended to
-- Store study materials
-- Provide convenient reference to worthwhile resources
+# Bookshelf
+The Bookshelf repository is intended to store study materials and provide convenient reference to worthwhile resources
 
 <br/>
   
