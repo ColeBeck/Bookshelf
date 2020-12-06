@@ -14,6 +14,8 @@ The Bookshelf repository is intended to store study materials and provide conven
 > [Linux](#Linux)
 ### P
 > [Python](#Python)
+### V
+> [VirtualBox](
   
 <br/>
   
@@ -43,3 +45,7 @@ The Bookshelf repository is intended to store study materials and provide conven
 
 - [Python Module of the Week](https://pymotw.com/3/)
 > PyMOTW-3 is a series of articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library with a focus on examples
+
+### VirtualBox
+- [VirtualBox User Manual](https://www.virtualbox.org/manual/UserManual.html)
+> This is the official user manual for Oracle VirtualBox
