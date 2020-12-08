@@ -35,7 +35,7 @@ The Bookshelf repository is intended to store study materials and provide conven
 
 ### Docker
 - [KodeKloud's Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=1)
-> KodeKloud's Docker for Beginners is a Docker tutorial that includes a link to their free docker labs
+> KodeKloud's Docker for Beginners is a YouTube tutorial that includes a link to free docker labs
 
 ### Java
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
