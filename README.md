@@ -8,6 +8,8 @@ The Bookshelf repository is intended to store study materials and provide conven
 > [Anki](#Anki)
 ### C
 > [Computer Networks](#Computer-Networks)
+### D
+> [Docker](#Docker)
 ### J
 > [Java](#Java)
 ### L
@@ -29,7 +31,11 @@ The Bookshelf repository is intended to store study materials and provide conven
 
 ### Computer Networks
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
-> This is a beginner's guide to socket programming with Internet sockets in C
+> This is a guide to socket programming with Internet sockets in C
+
+### Docker
+- [KodeKloud's Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=1)
+> KodeKloud's Docker for Beginners is a Docker tutorial that includes a link to their free docker labs
 
 ### Java
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
