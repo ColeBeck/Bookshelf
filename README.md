@@ -7,6 +7,7 @@ The Bookshelf repository is intended to store study materials and provide conven
 ### A
 > [Anki](#Anki)
 ### C
+> [Computer Architecture](#Computer-Architecture)
 > [Computer Networks](#Computer-Networks)
 ### D
 > [Docker](#Docker)
@@ -28,6 +29,11 @@ The Bookshelf repository is intended to store study materials and provide conven
 
 - [Lean Anki](https://leananki.com/start-here/)
 > Lean Anki is a concise tutorial for getting started with Anki and learning how to use it effectively
+
+### Computer Architecture
+> [NAND 2 Tetris](https://www.nand2tetris.org/course)
+> - [Lectures Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
+> - [Lectures Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
 
 ### Computer Networks
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
