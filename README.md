@@ -5,20 +5,20 @@ The Bookshelf repository is intended to store study materials and provide conven
   
 ## Index
 ### A
-> [Anki](#Anki)
+- [Anki](#Anki)
 ### C
-> - [Computer Architecture](#Computer-Architecture)  
-> - [Computer Networks](#Computer-Networks)
+- [Computer Architecture](#Computer-Architecture)  
+- [Computer Networks](#Computer-Networks)
 ### D
-> [Docker](#Docker)
+- [Docker](#Docker)
 ### J
-> [Java](#Java)
+- [Java](#Java)
 ### L
-> [Linux](#Linux)
+- [Linux](#Linux)
 ### P
-> [Python](#Python)
+- [Python](#Python)
 ### V
-> [VirtualBox](#VirtualBox)
+- [VirtualBox](#VirtualBox)
   
 <br/>
   
