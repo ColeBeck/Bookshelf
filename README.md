@@ -42,6 +42,12 @@ The Bookshelf repository is intended to store study materials and provide conven
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 > This is a guide to socket programming with Internet sockets in C
 
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer)
+> Cisco Packet Tracer is a free application used to simulate computer networks for educational purposes
+
+- [Dans Courses](http://danscourses.com/)
+> Dans Courses is a website that teaches computer networking through packet tracer labs
+
 ### Docker
 - [KodeKloud's Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=1)
 > KodeKloud's Docker for Beginners is a YouTube tutorial that includes a link to free docker labs
