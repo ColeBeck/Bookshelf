@@ -17,6 +17,8 @@ The Bookshelf repository is intended to store study materials and provide conven
 - [Linux](#Linux)
 ### P
 - [Python](#Python)
+### S
+- [Scrum](#Scrum)
 ### V
 - [VirtualBox](#VirtualBox)
   
@@ -58,6 +60,13 @@ The Bookshelf repository is intended to store study materials and provide conven
 
 - [Python Module of the Week](https://pymotw.com/3/)
 > PyMOTW-3 is a series of articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library with a focus on examples
+
+### Scrum
+- [A Breathtakingly Brief And Agile Introduction](https://agilelearninglabs.com/resources/scrum-introduction/)
+> This is a quick introduction to the Scrum methodology
+
+- [The Elements of Scrum](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_lNfQtdrtAhVPlFkKHQGfBTYQFjAJegQIChAC&url=https%3A%2F%2Fwww.scrumguides.org%2Fdocs%2Fscrumguide%2Fv1%2Fscrum-guide-us.pdf&usg=AOvVaw2MI7AQLlraUqA2Lb9M_SNq)
+> A short manual created by the inventors of Scrum
 
 ### VirtualBox
 - [VirtualBox User Manual](https://www.virtualbox.org/manual/UserManual.html)
