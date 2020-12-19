@@ -1,8 +1,6 @@
 # Bookshelf
 > Not having heard of it is not as good as having heard of it. Having heard of it is not as good as having seen it. Having seen it is not as good as knowing it. Knowing it is not as good as putting it into practice. -Not a university professor
 
-The Bookshelf is a repository for worthwhile, __practical__ resources.
-
 <br/>
   
 ## Index
