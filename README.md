@@ -48,7 +48,7 @@
 > Cisco Packet Tracer is a free application used to simulate computer networks for educational purposes
 
 - [Dans Courses](http://danscourses.com/)
-> Dans Courses is a website that teaches computer networking through packet tracer labs
+> Dans Courses is a website that teaches computer networking through Packet Tracer labs
 
 ### Docker
 - [KodeKloud's Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=1)
