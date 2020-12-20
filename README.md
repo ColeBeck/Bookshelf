@@ -50,6 +50,9 @@
 - [Dans Courses](http://danscourses.com/)
 > Dans Courses is a website that teaches computer networking through Packet Tracer labs
 
+- [Jeremy's IT Lab CCNA Routing & Switching Videos](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)
+> This is a playlist of videos that demonstrate CCNA networking concepts in Packet Tracer labs
+
 ### Docker
 - [KodeKloud's Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=1)
 > KodeKloud's Docker for Beginners is a YouTube tutorial that includes a link to free docker labs
