@@ -54,6 +54,9 @@
   - [Jeremy's IT Lab CCNA Practice](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)
 > Jeremy's IT Lab is a YouTube channel dedicated to teaching computer networking concepts with theory (top link) and Packet Tracer practice (bottom link)
 
+- [Neil Anderson's CCNA Lab Guide](https://www.flackbox.com/cisco-ccna-lab-guide?affiliate=jeremysitlab)
+> This is a free Packet Tracer lab guide with even more practice labs
+
 ### Docker
 - [KodeKloud's Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=1)
 > KodeKloud's Docker for Beginners is a YouTube tutorial that includes a link to free docker labs
