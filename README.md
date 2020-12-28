@@ -49,9 +49,9 @@
 - [Dans Courses](http://danscourses.com/)
 > Dans Courses is a website that teaches computer networking through Packet Tracer labs
 
-- [Jeremy's IT Lab CCNA Theory](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
-  - [Jeremy's IT Lab CCNA Practice](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)
-> Jeremy's IT Lab is a YouTube channel dedicated to teaching computer networking concepts with theory (top link) and Packet Tracer practice (bottom link)
+- [Jeremy's IT Lab CCNA Videos](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+  - [Jeremy's IT Lab CCNA Resources](https://jeremysitlab.com/ccna-course-files)
+> Jeremy's IT Lab is a YouTube channel dedicated to teaching computer networking concepts with videos (top link) and practical resources (bottom link)
 
 - [Neil Anderson's CCNA Lab Guide](https://www.flackbox.com/cisco-ccna-lab-guide?affiliate=jeremysitlab)
 > This is a free Packet Tracer lab guide with even more practice labs
