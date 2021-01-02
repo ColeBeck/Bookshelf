@@ -34,6 +34,8 @@
 - [Lean Anki](https://leananki.com/start-here/)
 > Lean Anki is a concise tutorial for getting started with Anki and learning how to use it effectively
 
+---
+
 ### Computer Architecture
 - [NAND 2 Tetris](https://www.nand2tetris.org/course)
   - [Lectures Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
@@ -61,6 +63,8 @@
 - [Cyber Security Base](https://cybersecuritybase.mooc.fi/)
 > Cyber Security Base is a free course series by University of Helsinki and MOOC.fi in collaboration with F-Secure that focuses on building core knowledge and abilities related to the work of a cyber security professional
 
+---
+
 ### DevOps
 - [DevOps Roadmap](https://roadmap.sh/devops)
 > This is a graph that details what to learn to become a devops engineer and in what order
@@ -69,13 +73,19 @@
 - [KodeKloud's Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=1)
 > KodeKloud's Docker for Beginners is a YouTube tutorial that includes a link to free docker labs
 
+---
+
 ### Java
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 > The Java Tutorials are tutorials developed by Oracle for Java 8
 
+---
+
 ### Linux
 - [Linux Journey](https://linuxjourney.com/)
 > Linux Journey offers a concise introduction to the basics of Linux
+
+---
 
 ### Python
 - [Corey Schafer's Python Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
@@ -84,12 +94,16 @@
 - [Python Module of the Week](https://pymotw.com/3/)
 > PyMOTW-3 is a series of articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library with a focus on examples
 
+---
+
 ### Scrum
 - [A Breathtakingly Brief And Agile Introduction](https://agilelearninglabs.com/resources/scrum-introduction/)
 > This is a quick introduction to the Scrum methodology
 
 - [The Elements of Scrum](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_lNfQtdrtAhVPlFkKHQGfBTYQFjAJegQIChAC&url=https%3A%2F%2Fwww.scrumguides.org%2Fdocs%2Fscrumguide%2Fv1%2Fscrum-guide-us.pdf&usg=AOvVaw2MI7AQLlraUqA2Lb9M_SNq)
 > A short manual created by the inventors of Scrum
+
+---
 
 ### VirtualBox
 - [VirtualBox User Manual](https://www.virtualbox.org/manual/UserManual.html)
