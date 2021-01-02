@@ -11,6 +11,7 @@
 - [Computer Networks](#Computer-Networks)
 - [Cyber Security](#Cyber-Security)
 ### D
+- [Design Patterns](#Design-Patterns)
 - [DevOps](#DevOps)
 - [Docker](#Docker)
 ### J
@@ -61,6 +62,10 @@
 > Cyber Security Base is a free course series by University of Helsinki and MOOC.fi in collaboration with F-Secure that focuses on building core knowledge and abilities related to the work of a cyber security professional
 
 ---
+
+### Design Patterns
+- [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans)
+> A blog post providing short, simple explanations of the GoF design patterns
 
 ### DevOps
 - [DevOps Roadmap](https://roadmap.sh/devops)
