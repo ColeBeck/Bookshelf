@@ -28,9 +28,6 @@
   
 ## Contents
 ### Anki
-- [Anki Quick Reference](https://github.com/ColeBeck/Bookshelf/blob/main/resources/anki_quick_ref.md)
-> This is a reference for performing basic tasks in Anki
-
 - [Lean Anki](https://leananki.com/start-here/)
 > Lean Anki is a concise tutorial for getting started with Anki and learning how to use it effectively
 
