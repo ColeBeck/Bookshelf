@@ -24,6 +24,8 @@
 - [Scrum](#Scrum)
 ### V
 - [VirtualBox](#VirtualBox)
+### W
+- [Web Development](#Web-Development)
   
 <br/>
   
@@ -110,3 +112,12 @@
 ### VirtualBox
 - [VirtualBox User Manual](https://www.virtualbox.org/manual/UserManual.html)
 > This is the official user manual for Oracle VirtualBox
+
+---
+
+### Web Development
+- [Backend Developer Roadmap](https://roadmap.sh/backend)
+> This is a graph that details what to learn to become a backend developer and in what order
+
+- [Frontend Developer Roadmap](https://roadmap.sh/frontend)
+> This is a graph that details what to learn to become a frontend developer and in what order
