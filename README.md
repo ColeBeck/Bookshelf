@@ -32,7 +32,7 @@
 ## Contents
 ### Anki
 - [Lean Anki](https://leananki.com/start-here/)
-> Lean Anki is a concise tutorial for getting started with Anki and learning how to use it effectively
+> Lean Anki is a concise tutorial for getting started with the spaced-repetition software called Anki
 
 ---
 
