@@ -1,5 +1,9 @@
 # Bookshelf
-> Not having heard of it is not as good as having heard of it. Having heard of it is not as good as having seen it. Having seen it is not as good as knowing it. Knowing it is not as good as putting it into practice.
+> Learning strategy:
+> 1. Research - The first step in my learning workflow is dedicated to researching the particular topic to gain a functional understanding
+> 2. Reduce - The second step involves reducing the information from the research step down to the minimum needed to understand the topic
+> 3. Record - The purpose of the third step is to put the information from the reduce stage into a question form that requires understanding of the topic to answer
+> 4. Remind - The final step is to remind yourself of the information learned on a regular basis via a spaced repitition service like Anki
 
 <br/>
   
