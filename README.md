@@ -67,6 +67,9 @@ Learning strategy:
 - [Cyber Security Base](https://cybersecuritybase.mooc.fi/)
 > Cyber Security Base is a free course series by University of Helsinki and MOOC.fi in collaboration with F-Secure that focuses on building core knowledge and abilities related to the work of a cyber security professional
 
+- [TryHackMe](https://tryhackme.com/)
+> TryHackMe is a begginer-friendly cyber security learning platform
+
 ---
 
 ### Design Patterns
