@@ -1,6 +1,6 @@
 # Bookshelf
 Learning strategy:
-1. Research - The first step in my learning strategy is to find and consume easily digestible content to gain a functional understanding of the topic
+1. Research - The first step in my learning strategy is to find tutorialized content to gain a functional understanding of the topic
 2. Refine - The second step involves finding comprehensive reference material to refine and organize my understanding
 3. Record - The final step is intended to make information stick by translating my research into Anki flashcards
 
