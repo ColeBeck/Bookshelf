@@ -1,9 +1,8 @@
 # Bookshelf
 Learning strategy:
-1. Research - The first step in my learning workflow is dedicated to researching the particular topic to gain a functional understanding
-2. Reduce - The second step involves reducing the information from the research step down to the minimum needed to understand the topic
-3. Record - The purpose of the third step is to transform the information from the reduce stage into simple, illustrative questions
-4. Remind - The final step is to take the questions from the previous stage and make use of them via Anki
+1. Research - The first step in my learning strategy is to find and consume easily digestible content to gain a functional understanding of the topic
+2. Refine - The second step involves finding comprehensive reference material to refine and organize my understanding
+3. Record - The final step is intended to make information stick by translating my research into Anki flashcards
 
 <br/>
   
